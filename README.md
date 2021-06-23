@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LucasKzan
+- 👀 I'm looking for new knowledge in the development area, mainly for front-end technologies.
